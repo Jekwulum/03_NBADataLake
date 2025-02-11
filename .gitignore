@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+setup_nba_data_lake.py
+view_data.py
+convert.py
+
 # C extensions
 *.so
 
