@@ -1,7 +1,7 @@
 # 30 Days DevOps Challenge - NBA Data Lake
-Day 3: Building a building a Sports Data Lake leveraging Azure blob storage, and Synapse Analytics
+Captsone Project: Building a building a Sports Data Lake leveraging Azure blob storage, and Synapse Analytics
 
-![Project Structure](./DevopsChallenge_day03.jpg)
+![Project Structure](./DevOps_Capstone_Project.drawio.pngg)
 
 
 ## Project Overview
